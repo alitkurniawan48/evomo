@@ -1,0 +1,70 @@
+.green{
+    color: #159957 !important;
+}
+.bg-green{
+    background-color: #159957;
+}
+
+.bg-evomo{
+    background: linear-gradient(0deg, #159957 0%, #155799 98.99%);
+}
+
+.bg-blue{
+    background: #155799;
+}
+
+.bg-white{
+    background: transparent;
+}
+
+/* table sup & maintenance */
+.mg-thead-1{
+    width: 255px;
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+    border-radius: 5px;
+}
+
+.mg-thead-2{
+    width: 500px;
+    border-radius: 5px;
+    padding-top: 30px!important;
+    padding-bottom: 30px!important;
+}
+.mg-thead-3{
+    width: 270px;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px!important;
+}
+
+.mg-thead{
+    border: 3px solid white;
+}
+
+.pd-thead1{
+    padding-top: 100px !important;
+}
+.pd-thead3{
+    padding-top: 75px !important;
+}
+
+/* table bus plan */
+.table-1-bus{
+    width: 250px;
+}
+
+.fw-400{
+    font-weight: 400 !important;
+}
+
+.table-bus-g{
+    width: 270px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.none{
+    border: none !important;
+}
